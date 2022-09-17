@@ -104,6 +104,7 @@
 }
 
 .hero-btn {
+      font-family: inherit;
       font-weight: 700;
       font-size: 16px;
       line-height: 1.88;
@@ -143,11 +144,11 @@
 
 
 .team-item-title {
-   font-weight: 500;
+      font-weight: 500;
       font-size: 16px;
       line-height: 1.19;
       letter-spacing: var(--main-letter-spacing);
-      color:var(--secondary-color);
+      
 }
 
 .team-item-text {
@@ -160,6 +161,7 @@
   /* ----------------Portfolio-------------- */
 
   .examples-btn {
+      font-family: inherit;
       font-weight: 500;
       font-size: 16px;
       line-height: 1.62;
